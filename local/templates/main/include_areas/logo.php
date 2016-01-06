@@ -1,0 +1,1 @@
+<?php?><img width="733" alt="logo" src="/local/templates/main/images/index_07.jpg" height="319">
